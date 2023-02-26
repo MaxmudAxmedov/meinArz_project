@@ -1,7 +1,7 @@
 const elRegisterForm = document.querySelector(".sign_main_left_form");
-const elRegisterFormName = document.querySelector(".user_name_input");
-const elRegisterFormEmail = document.querySelector(".user_email_input");
-const elRegisterFormPassword = document.querySelector(".user_password_input");
+// const elRegisterFormName = document.querySelector(".user_name_input");
+// const elRegisterFormEmail = document.querySelector(".user_email_input");
+// const elRegisterFormPassword = document.querySelector(".user_password_input");
 
 
 async function registerUsers() {
